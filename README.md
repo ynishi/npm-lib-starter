@@ -1,2 +1,13 @@
 # npm-lib-starter
-simple npm library package template
+Simple npm library package template.
+
+## includes 
+* typescript
+* jest(with mock sample)
+* prettier 
+
+## contribute
+* Very welcome, create issue or pull request.
+
+## LICENSE
+* MIT, see LICENSE
